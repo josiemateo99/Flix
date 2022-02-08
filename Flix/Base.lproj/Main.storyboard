@@ -143,11 +143,11 @@
             </objects>
             <point key="canvasLocation" x="-148" y="1544"/>
         </scene>
-        <!--Item-->
+        <!--Now Playing-->
         <scene sceneID="B7W-jq-xE3">
             <objects>
                 <navigationController automaticallyAdjustsScrollViewInsets="NO" id="JEm-3i-x7s" sceneMemberID="viewController">
-                    <tabBarItem key="tabBarItem" title="Item" id="aoN-s0-aRV"/>
+                    <tabBarItem key="tabBarItem" title="Now Playing" image="now_playing_tabbar_item" id="aoN-s0-aRV"/>
                     <toolbarItems/>
                     <navigationBar key="navigationBar" contentMode="scaleToFill" id="JoL-NX-Hsh">
                         <rect key="frame" x="0.0" y="44" width="414" height="44"/>
@@ -178,11 +178,11 @@
             </objects>
             <point key="canvasLocation" x="978" y="800"/>
         </scene>
-        <!--Item-->
+        <!--Superhero-->
         <scene sceneID="Q0z-xZ-4le">
             <objects>
                 <navigationController automaticallyAdjustsScrollViewInsets="NO" id="BZk-vR-lrM" sceneMemberID="viewController">
-                    <tabBarItem key="tabBarItem" title="Item" id="3EJ-fk-g8e"/>
+                    <tabBarItem key="tabBarItem" title="Superhero" image="superhero_tabbar_item" id="3EJ-fk-g8e"/>
                     <toolbarItems/>
                     <navigationBar key="navigationBar" contentMode="scaleToFill" id="Sw1-gv-4mq">
                         <rect key="frame" x="0.0" y="44" width="414" height="44"/>
@@ -195,10 +195,12 @@
                 </navigationController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="Qy8-5U-acq" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="978.26086956521749" y="93.75"/>
+            <point key="canvasLocation" x="977" y="84"/>
         </scene>
     </scenes>
     <resources>
+        <image name="now_playing_tabbar_item" width="21" height="21"/>
+        <image name="superhero_tabbar_item" width="21" height="23"/>
         <systemColor name="labelColor">
             <color white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
         </systemColor>
