@@ -162,7 +162,7 @@
             </objects>
             <point key="canvasLocation" x="-148" y="84"/>
         </scene>
-        <!--Movie Grid View Controller-->
+        <!--Superhero-->
         <scene sceneID="ZWW-XG-e7W">
             <objects>
                 <viewController id="qTe-lp-1Aq" customClass="MovieGridViewController" customModule="Flix" customModuleProvider="target" sceneMemberID="viewController">
@@ -172,7 +172,7 @@
                         <viewLayoutGuide key="safeArea" id="5xs-9u-rA9"/>
                         <color key="backgroundColor" systemColor="systemBackgroundColor"/>
                     </view>
-                    <navigationItem key="navigationItem" id="3DL-eh-kvV"/>
+                    <navigationItem key="navigationItem" title="Superhero" id="3DL-eh-kvV"/>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="Ghh-Xm-17V" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
             </objects>
