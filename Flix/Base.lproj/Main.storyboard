@@ -162,10 +162,10 @@
             </objects>
             <point key="canvasLocation" x="-148" y="84"/>
         </scene>
-        <!--View Controller-->
+        <!--Movie Grid View Controller-->
         <scene sceneID="ZWW-XG-e7W">
             <objects>
-                <viewController id="qTe-lp-1Aq" sceneMemberID="viewController">
+                <viewController id="qTe-lp-1Aq" customClass="MovieGridViewController" customModule="Flix" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="hAy-nQ-hLl">
                         <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
