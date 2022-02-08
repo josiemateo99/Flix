@@ -25,6 +25,7 @@ class MovieDetailsViewController: UIViewController {
         
         print("Now Playing ", movie["title"])
         
+    
         
         titleLabel.text = movie["title"] as? String
         titleLabel.sizeToFit()
