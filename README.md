@@ -12,7 +12,7 @@
 
 ### App Walkthrough GIF
 
-"https://user-images.githubusercontent.com/65267381/153098071-faa30626-7ef8-4829-8321-1dbedf2b36f3.mov"
+https://user-images.githubusercontent.com/65267381/153098071-faa30626-7ef8-4829-8321-1dbedf2b36f3.mov
 
 ### Notes
 Describe any challenges encountered while building the app.
