@@ -12,7 +12,9 @@
 
 ### App Walkthrough GIF
 
-https://user-images.githubusercontent.com/65267381/153098071-faa30626-7ef8-4829-8321-1dbedf2b36f3.mov
+![Screen Recording 2022-02-10 at 10 53 27 PM](https://user-images.githubusercontent.com/65267381/153535393-0d20b598-68bc-4083-89d2-a3e8cd06df7f.gif)
+
+
 
 ### Notes
 Describe any challenges encountered while building the app.
